@@ -15,7 +15,7 @@ The ```.class``` files are located in the [bin](./bin) folder. These files conta
 
 ## .java files
 
-The ```.java``` files are located in the [src](./src) folder. These files 
+The ```.java``` files are located in the [src](./src) folder. These are editable files to be used in any Java IDE (Integrated Development Environment) such as [Eclipse](https://www.eclipse.org/ide/) or [IntelliJ](https://www.jetbrains.com/idea/)
 
 - [.java files for Part 3](./src/pt3_practiceProjs)
 - [.java files for Part 4](./src/pt4_jssCh2)
