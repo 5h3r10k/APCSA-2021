@@ -1,0 +1,68 @@
+The  purpose  of  this  part  of  the  summer  assignment is  to  get  comfortable  with  using  Eclipse  IDE.  
+In  this part,  you  will  be writing  few  programs  on  eclipse.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+1. In this assignment, you will create a program that computes the distance an object will fall in Earth’s gravity. 
+  a. Create a new class called GravityCalculator 
+  b. Copy and paste the following initial code in the class.
+  
+  public class GravityCalculator  { 
+    public static void main(String[]  args){ 
+      double gravity =  -9.81; //  Earth's gravity  in  m/s^2 
+      double initialVelocity =  0.0; 
+      double fallingTime  =  10.0; 
+      double initialPosition =  0.0; 
+      double finalPosition  =  0.0; 
+      System.out.println("The  object's position  after  " + fallingTime  + "  seconds is  " +  finalPosition+ "  m"); 
+    }
+  }
+
+  c. Run it in Eclipse (Run → Run As → Java Application)
+
+<i>What is the output of the unmodified program? Include this as a comment in the source code of your submission.</i>
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+2. Modify the above program to compute the position of an object after falling for 10 seconds, output the position in meters. 
+
+The formula in Math notation is: x(t)  =  0.5  * at2 + vit + x
+
+where:
+  a → Acceleration = -9.81 
+  t → Time(in seconds) = 10 
+  vi → Initial velocity = 0 
+  x → Initial position = 0
+  
+  Note: The correct value is -490.5m. 
+  Java will output more digits after the decimal place. 
+  You can use the DecimalFormat class from the java.text package to format your output.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+3. Write and run a program that displays a table of 20 temperature conversions from Fahrenheit to Celsius. 
+   The table should start with a Fahrenheit value of 20 degrees and be incremented in values of 3 degrees. 
+   Recall that Celsius = (5.0/9.0)*(Fahrenheit – 32)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+4. Write and run a program that calculates and displays the amount of money available in a bank account that has $1000 
+   deposited in it and that earns 8% interest per year. Your program should display the amount available at the end of 
+   each year for a period of 10 years. Use the relationship that the money available at the end of each year equals the 
+   amount of money in the account at the start of the year plus 0.08 times the amount available at the start of the year.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+5. A child’s parents promised to give the child $10 on her twelfth birthday and double the gift on every subsequent birthday
+   until the gift exceeded $1000. Write a Java program to determine how old the girl will be when the last amount is given, 
+   and the total amount she received including the last gift.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+6. Write a program to reverse the digits of a positive integer number. For example, if the number 6573 is entered, the number 
+   displayed should be 3756 [Hint: Use a do statement and continuously strip off and display the units digit of the number. 
+   If the variable num initially contains the number entered, the units digit is obtained as (num%10). After a units digit is 
+   displayed, dividing the number by 10 sets up the number for the next iteration. Thus, (6573%10) is 3, and (6573/10) is 657. 
+   The do statement should continue as long as the remaining number is not zero.
+
+--------------------------------------------------------------------------------------------------------------------------------
