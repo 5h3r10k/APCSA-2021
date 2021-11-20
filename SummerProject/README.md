@@ -7,7 +7,7 @@ Full details are in pdf file [here](./APCSA_summerProj_2021.pdf)
 
 ## .class files
 
-The ```.class``` files are located in the [bin](./bin) folder. These files contain java bytecode to be executed by a JVM (Java Virtual Machine).
+The ```.class``` files are located in the [bin](./bin) folder. These files contain java bytecode to be executed by a JVM (Java Virtual Machine). These are automatically generated when the ```.java``` file is compiled
 
 - [.class files for Part 3](./bin/pt3_practiceProjs)
 - [.class files for Part 4](./bin/pt4_jssCh2)
