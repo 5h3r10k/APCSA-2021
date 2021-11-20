@@ -8,6 +8,5 @@ Full details are in pdf file [here](./APCSA_summerProj_2021.pdf)
 
 The ```.class``` files are located in the [bin](./bin) folder. 
 
-[class files for Part 3](./bin/pt3_practiceProjs)
-
-[class files for Part 4](./bin/pt4_jssCh2)
+- [class files for Part 3](./bin/pt3_practiceProjs)
+- [class files for Part 4](./bin/pt4_jssCh2)
