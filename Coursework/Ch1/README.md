@@ -32,5 +32,6 @@
         - Logical
 - ```System.out.print()``` and ```System.out.println()```
 
+<br>
 
 ### Assignments & Practice
