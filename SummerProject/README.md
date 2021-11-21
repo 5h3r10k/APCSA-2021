@@ -9,10 +9,13 @@ Full details are in pdf file [here](./APCSA_summerProj_2021.pdf)
 
 The ```.java``` files are located in the [src](./src) folder. These are editable files to be used in any Java IDE (Integrated Development Environment) such as [Eclipse](https://www.eclipse.org/ide/) or [IntelliJ](https://www.jetbrains.com/idea/)
 
-The ```.class``` files are located in the [bin](./bin) folder. These files contain java bytecode to be executed by a JVM (Java Virtual Machine). These are automatically generated when the ```.java``` file is compiled
+The ```.class``` files are located in the [bin](./bin) folder. These files contain java bytecode to be executed by a JVM (Java Virtual Machine). These are automatically generated when the ```.java``` file is compiled.  
 
-_**NOTE: ** If you have never worked with ```.class``` files before, you do not need to worry about them. The ```.java``` files have all the necessary code._
-
+<br><i>
+**NOTE:** If you have never worked with ```.class``` files before, you do not need to worry about them. The ```.java``` files have all the necessary code.
+</i>
+<br>
+<br>
 
 ## Part 3
 
