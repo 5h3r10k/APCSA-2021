@@ -1,5 +1,8 @@
 # Chapter 1 - Data Types, Number Systems, Computer Theory
 
+<br>
+
+### Topics
 - What is Java? What is programming?
 - What are the core parts of a computer? What are their functions?
 - Number Systems
@@ -12,3 +15,7 @@
     - Floating point types (```double```, ```float```)
     - Boolean (```boolean```)
     - Character (```char```)
+
+<br>
+
+### Assignments & Practice
