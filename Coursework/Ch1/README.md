@@ -1,6 +1,5 @@
 # Chapter 1 - Data Types, Number Systems, Computer Theory
 
-<br>
 
 ### Topics
 - What is Java? What is programming?
@@ -16,6 +15,5 @@
     - Boolean (```boolean```)
     - Character (```char```)
 
-<br>
 
 ### Assignments & Practice
