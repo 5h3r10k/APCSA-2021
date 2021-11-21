@@ -9,3 +9,8 @@
     - Hexadecimal 
     - Octal 
     - Conversion between number systems
+- Primitive Types
+    - Whole number types (```byte```, ```short```, ```int```, ```long```)
+    - Floating point types (```double```, ```float```)
+    - Boolean (```boolean```)
+    - Character (```char```)
