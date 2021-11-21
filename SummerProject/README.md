@@ -11,6 +11,8 @@ The ```.java``` files are located in the [src](./src) folder. These are editable
 
 The ```.class``` files are located in the [bin](./bin) folder. These files contain java bytecode to be executed by a JVM (Java Virtual Machine). These are automatically generated when the ```.java``` file is compiled
 
+_**NOTE: ** If you have never worked with ```.class``` files before, you do not need to worry about them. The ```.java``` files have all the necessary code._
+
 
 ## Part 3
 
