@@ -43,3 +43,7 @@
 - Formatting output
     - NumberFormat class
     - DecimalFormat class
+
+<br>
+
+### Assignments & Practice

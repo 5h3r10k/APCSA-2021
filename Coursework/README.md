@@ -6,3 +6,4 @@
 
 ### [Chapter 2 - Objects and Primitive Data](./Ch2)
 - [Chapter 2 Topics](./Ch2/README.md#topics)
+- [Chapter 2 Assignments/Practice](./Ch2/README.md#assignments--practice)
