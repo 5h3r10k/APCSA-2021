@@ -14,3 +14,30 @@
     - Explicit vs Implicit casting
     - Widening vs Narrowing conversions
     - Casting promotion/demotion
+- Variables 
+    - Declaration and initialization
+    - Naming convention
+    - Constants
+- Operators
+    - Arithmetic (```+```,```-```,```*```,```/```,```%```)
+    - Relational (```==```,```>=```,```<=```,```>```,```<```,```!=```)
+    - Logical (```&&```,```||```,```!```)
+    - Operator Precedence
+- Scanner class
+    - Importing
+    - Creating an instance
+    - Methods
+- String class
+    - String literals
+    - Creating string objects
+    - String methods
+    - Imports?
+    - Escape sequences
+- Math class
+    - How to access
+    - Static class
+    - Methods
+- Difference between classes and objects
+- Formatting output
+    - NumberFormat class
+    - DecimalFormat class
