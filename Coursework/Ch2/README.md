@@ -56,3 +56,22 @@
     - Complete 2.1 - 2.14 from the [textbook](./JSS_ch2.pdf)
     - This was also part of the summer project
     - [Answers](./Ch2_Answers/APCSA_SummerProjPt4_Exercises.pdf)
+3. Uniform Random
+    - [Assignment]
+    - [Answer]
+4. Great Circle
+    - [Assignment]
+    - [Answer]
+5. Random in Range
+    - [Assignment]
+    - [Answer]
+6. Sine Function
+    - [Assignment]
+    - [Answer]
+7. Three Sort
+    - [Assignment]
+    - [Answer]
+8. Loan Payment
+    - [Assignment]
+    - [Answer]
+9. Date to Day
