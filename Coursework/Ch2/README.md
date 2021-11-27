@@ -58,22 +58,22 @@
     - [Answers](./Ch2_Answers/APCSA_SummerProjPt4_Exercises.pdf)
 3. Uniform Random
     - [Assignment](./Ch2_Assignments/UniformRandom.jpg)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/UniformRandom.java)
 4. Great Circle
     - [Assignment](./Ch2_Assignments/GreatCircle.jpg)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/GreatCircle.java)
 5. Random in Range
     - [Assignment](./Ch2_Assignments/RandomInRange.jpg)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/RandomAB.java)
 6. Sine Function
     - [Assignment](./Ch2_Assignments/SineFunction.jpg)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/SineFunction.java)
 7. Three Sort
     - [Assignment](./Ch2_Assignments/ThreeSort.jpg)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/ThreeSort.java)
 8. Loan Payment
     - [Assignment](./Ch2_Assignments/LoanPayment.jpg)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/LoanPayment.java)
 9. Date to Day
     - [Assignment](./Ch2_Assignments/DateToDay.pdf)
-    - [Answer]
+    - [Answer](./Ch2_Answers/src/ch2/DateToDay.java)
