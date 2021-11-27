@@ -1,5 +1,6 @@
 # Chapter 1 - Data Types, Number Systems, Computer Theory
 
+[Chapter 1 from the textbook](./JSS_ch1.pdf)
 
 ### Topics
 - What is Java? What is programming?
