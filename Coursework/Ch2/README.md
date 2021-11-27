@@ -52,3 +52,6 @@
     - Can be found in [Chapter 2 from the textbook](./JSS_ch2.pdf)
     - This was part of the summer project
     - [Answers](../../SummerProject/src/pt4_jssCh2/)
+2. Chapter 2 Exercises
+    - Complete 2.1 - 2.14 from the [textbook](./JSS_ch2.pdf)
+    - [Answers](./Ch2_Answers/APCSA_SummerProjPt4_Exercises.pdf)
