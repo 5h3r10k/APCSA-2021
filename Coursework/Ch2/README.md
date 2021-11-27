@@ -57,21 +57,23 @@
     - This was also part of the summer project
     - [Answers](./Ch2_Answers/APCSA_SummerProjPt4_Exercises.pdf)
 3. Uniform Random
-    - [Assignment]
+    - [Assignment](./Ch2_Assignments/UniformRandom.jpg)
     - [Answer]
 4. Great Circle
-    - [Assignment]
+    - [Assignment](./Ch2_Assignments/GreatCircle.jpg)
     - [Answer]
 5. Random in Range
-    - [Assignment]
+    - [Assignment](./Ch2_Assignments/RandomInRange.jpg)
     - [Answer]
 6. Sine Function
-    - [Assignment]
+    - [Assignment](./Ch2_Assignments/SineFunction.jpg)
     - [Answer]
 7. Three Sort
-    - [Assignment]
+    - [Assignment](./Ch2_Assignments/ThreeSort.jpg)
     - [Answer]
 8. Loan Payment
-    - [Assignment]
+    - [Assignment](./Ch2_Assignments/LoanPayment.jpg)
     - [Answer]
 9. Date to Day
+    - [Assignment](./Ch2_Assignments/DateToDay.pdf)
+    - [Answer]
