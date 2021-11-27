@@ -47,3 +47,8 @@
 <br>
 
 ### Assignments & Practice
+
+1. Chapter 2 Programming Projects
+    - Can be found in [Chapter 2 from the textbook](./JSS_ch2.pdf)
+    - This was part of the summer project
+    - [Answers](../../SummerProject/src/pt4_jssCh2/)
