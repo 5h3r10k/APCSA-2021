@@ -54,4 +54,5 @@
     - [Answers](../../SummerProject/src/pt4_jssCh2/)
 2. Chapter 2 Exercises
     - Complete 2.1 - 2.14 from the [textbook](./JSS_ch2.pdf)
+    - This was also part of the summer project
     - [Answers](./Ch2_Answers/APCSA_SummerProjPt4_Exercises.pdf)
