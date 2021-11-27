@@ -7,3 +7,7 @@
 ### [Chapter 2 - Objects and Primitive Data](./Ch2)
 - [Chapter 2 Topics](./Ch2/README.md#topics)
 - [Chapter 2 Assignments/Practice](./Ch2/README.md#assignments--practice)
+
+### [Chapter 3 - Program Statements](./Ch3)
+- [Chapter 3 Topics](./Ch3/README.md#topics)
+- [Chapter 3 Assignments/Practice](./Ch3/README.md#assignments--practice)
