@@ -2,6 +2,8 @@
 
 [Chapter 2 from the textbook](./JSS_ch2.pdf)
 
+[Chapter 2 Presentation Slides](./JSS_ch2_ppt.pdf)
+
 ### Topics
 
 - Primitive Types
