@@ -1,6 +1,7 @@
 # Chapter 3 - Program Statements
 
 [Chapter 3 from the textbook](./JSS_ch3.pdf)
+
 [Chapter 3 Powerpoint](./JSS_ch3_ppt.pdf)
 
 ### Topics
