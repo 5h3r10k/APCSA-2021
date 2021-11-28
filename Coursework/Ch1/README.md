@@ -2,6 +2,10 @@
 
 [Chapter 1 from the textbook](./JSS_ch1.pdf)
 
+[Chapter 1 Presentation Slides](./JSS_ch1_ppt.pdf)
+
+[Chapter 1 Notes](./APCSA_ch1_notes.pdf)
+
 ### Topics
 - What is Java? What is programming?
 - What are the core parts of a computer? What are their functions?
