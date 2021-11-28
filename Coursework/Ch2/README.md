@@ -4,6 +4,8 @@
 
 [Chapter 2 Presentation Slides](./JSS_ch2_ppt.pdf)
 
+[Chapter 2 Notes](./APCSA_ch2_notes.pdf)
+
 ### Topics
 
 - Primitive Types
