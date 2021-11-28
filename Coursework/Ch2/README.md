@@ -6,6 +6,8 @@
 
 [Chapter 2 Notes](./APCSA_ch2_notes.pdf)
 
+[Chapter 2 SCANNER CLASS notes](./APCSA_scanner_notes.pdf)
+
 ### Topics
 
 - Primitive Types
