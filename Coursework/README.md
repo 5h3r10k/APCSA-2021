@@ -11,3 +11,7 @@
 ### [Chapter 3 - Program Statements](./Ch3)
 - [Chapter 3 Topics](./Ch3/README.md#topics)
 - [Chapter 3 Assignments/Practice](./Ch3/README.md#assignments--practice)
+
+### [Chapter 4 - Methods](./Ch4)
+- [Chapter 4 Topics](./Ch4/README.md#topics)
+- [Chapter 4 Assignments/Practice](./Ch4/README.md#assignments--practice)
