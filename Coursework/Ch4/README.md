@@ -1,11 +1,27 @@
-# Chapter 4 - Methods
+# Chapter 4 - Writing Classes
 
-[Chapter 4 from the textbook]()
+[Chapter 4 from the textbook](./JSS_ch4.pdf)
 
-[Chapter 4 Powerpoint]()
+[Chapter 4 Powerpoint](./JSS_ch4_ppt.pdf)
 
 ### Topics
-
+- Methods
+    - Static Methods
+    - Public vs Private methods
+    - Return types
+        - void (no return)
+        - data type (int, double, etc)
+        - abstract object type
+    - Overloaded Methods
+- Classes
+    - Abstraction
+    - Constructors
+    - Overloaded constructors
+    - Public vs Private data
+    - Getter / Setter methods
+    - toString() method
+    - Creation of instances (objects)
+    - Parent/child heirarchy
 
 
 <br>
@@ -27,3 +43,14 @@
 5. Rational Methods
     - [Assignment]()
     - [My Answer]()
+6. Quadratic Roots
+    - [Assignment]()
+7. Pig Game
+    - [Assignment]()
+8. Design and use a class
+    - [Assignment]()
+9. Box class
+    - [Assignment]()
+10. Dice Project - to do over winter break
+    - [Assignment]()
+    - Answers
