@@ -49,6 +49,9 @@
     - [Assignment]()
 8. Design and use a class
     - [Assignment]()
+    - Answer
+        - My class was the ```teenager``` class. It has some common activities and attributes of a teenager.
+        - [Teenager class]()
 9. Box class
     - [Assignment]()
 10. Dice Project - to do over winter break
