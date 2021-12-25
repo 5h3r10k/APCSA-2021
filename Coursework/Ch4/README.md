@@ -38,22 +38,22 @@
     - [Assignment](./Ch4_Assignments/PalindromeTester_Complete_Description.pdf)
     - [My Answer](./Ch4_Answers/src/ch4/PalindromeTester.java)
 4. GCF (Greatest Common Factor) Method
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/GCF.jpg)
     - [My Answer]()
 5. Rational Methods
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/RationalOperations_Complete_Description.pdf)
     - [My Answer]()
 6. Quadratic Roots
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/QuadraticRoots.pdf)
 7. Pig Game
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/Pig_Game_Complete_Descripton.pdf)
 8. Design and use a class
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/Design_your_own_class.pdf)
     - Answer
         - My class was the ```teenager``` class. It has some common activities and attributes of a teenager.
         - [Teenager class]()
 9. Box class
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/BoxClass.jpg)
 10. Dice Project - to do over winter break
-    - [Assignment]()
+    - [Assignment](./Ch4_Assignments/Programs_using_Dice.pdf)
     - Answers
