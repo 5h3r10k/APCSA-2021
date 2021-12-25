@@ -39,7 +39,7 @@
     - [My Answer](./Ch4_Answers/src/ch4/PalindromeTester.java)
 4. GCF (Greatest Common Factor) Method
     - [Assignment](./Ch4_Assignments/GCF.jpg)
-    - [My Answer](./Ch4_Answers/src/ch4/)
+    - [My Answer](./Ch4_Answers/src/ch4/GCF.java)
 5. Rational Methods
     - [Assignment](./Ch4_Assignments/RationalOperations_Complete_Description.pdf)
     - [My Answer](./Ch4_Answers/src/ch4/RationalOperations.java)
@@ -53,10 +53,11 @@
     - [Assignment](./Ch4_Assignments/Design_your_own_class.pdf)
     - Answer
         - My class was the ```teenager``` class. It has some common activities and attributes of a teenager.
-        - [Teenager class]()
+        - [Teenager class](./Ch4_Answers/src/ch4/Teenager.java)
 9. Box class
     - [Assignment](./Ch4_Assignments/BoxClass.jpg)
-    - [My Answer](./Ch4_Answers/src/ch4/)
+    - [My Answer](./Ch4_Answers/src/ch4/Box.java)
 10. Dice Project - to do over winter break
     - [Assignment](./Ch4_Assignments/Programs_using_Dice.pdf)
     - Answers
+    - Dependency Classes
