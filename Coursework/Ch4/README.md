@@ -4,6 +4,8 @@
 
 [Chapter 4 Powerpoint](./JSS_ch4_ppt.pdf)
 
+[A trip to Objectville](./A_Trip_to_Objectville.pdf)
+
 ### Topics
 - Methods
     - Static Methods
