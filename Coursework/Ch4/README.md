@@ -68,6 +68,12 @@
         4. Dice Graph
             - [Solution](./Ch4_Answers/src/ch4/diceProjects/DiceGraph.java) - Uses variables for the count of each roll. Not memory or process efficient.
             - [Alternate Solution](./Ch4_Answers/src/ch4/diceProjects/DiceGraph_2.java) - Uses an integer array rather than variables, to save memory. However, integer arrays are not covered in Chapter 4, so feel free to return to this solution at a later time.
+        5. Craps (Extra Credit)
+        6. [Modified Pig Game](./Ch4_Answers/src/ch4/diceProjects/PigGame_Mod.java)
+            - Just like normal pig game, except there are no snake eyes or half snake eyes.
+            - 2 10-sided dice, a sum of 13 is a full reset, and a doubles is a round reset.
+            - [Video Explanation](./Ch4_Answers/G12_APCSA_Ch4Proj_6PigGameDesc_2021.mp4)
+            - [Document Explanation](./Ch4_Answers/G12_APCSA_Ch4Proj_6PigGameModified_2021.pdf)
     - Dependency Classes
         - [Die](./Ch4_Answers/src/ch4/diceProjects/Die.java)
         - [PairOfDice](./Ch4_Answers/src/ch4/diceProjects/PairOfDice.java)
