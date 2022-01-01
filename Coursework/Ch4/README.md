@@ -72,7 +72,7 @@
         6. [Modified Pig Game](./Ch4_Answers/src/ch4/diceProjects/PigGame_Mod.java)
             - Just like normal pig game, except there are no snake eyes or half snake eyes.
             - 2 10-sided dice, a sum of 13 is a full reset, and a doubles is a round reset.
-            - [Video Explanation](./Ch4_Answers/G12_APCSA_Ch4Proj_6PigGameDesc_2021.mp4)
+            - [Video Explanation](https://drive.google.com/file/d/1dTyNWssFrJ297Z4CfpNBLs33biTcHRc2/view?usp=sharing)
             - [Document Explanation](./Ch4_Answers/G12_APCSA_Ch4Proj_6PigGameModified_2021.pdf)
     - Dependency Classes
         - [Die](./Ch4_Answers/src/ch4/diceProjects/Die.java)
