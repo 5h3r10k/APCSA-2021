@@ -77,3 +77,24 @@
     - Dependency Classes
         - [Die](./Ch4_Answers/src/ch4/diceProjects/Die.java)
         - [PairOfDice](./Ch4_Answers/src/ch4/diceProjects/PairOfDice.java)
+11. Account / Banking class
+    - [Assignment](Ch4_Assignments/AccountBanking.jpg)
+    - Answers
+      - [Account class](Ch4_Answers/src/ch4/Account.java)
+      - [Banking class](Ch4_Answers/src/ch4/Banking.java)
+12. Circle class
+    - [Assignment](Ch4_Assignments/Circle_UsingCircle.jpg)
+    - [Circle UML](Ch4_Assignments/Circle_UML.png)
+    - Answers
+      - [Circle class](Ch4_Answers/src/ch4/Circle.java)
+      - [UsingCircle class](Ch4_Answers/src/ch4/UsingCircle.java)
+13. Rational class
+    - [Assignment](Ch4_Assignments/Rational_Class.pdf)
+    - Answers
+      - [Rational class](Ch4_Answers/src/ch4/Rational.java)
+      - [Rational class runner](Ch4_Answers/src/ch4/RationalRunner.java)
+14. Point class
+    - [Assignment](Ch4_Assignments/Point_class.pdf)
+    - Answers
+      - [Point class](Ch4_Answers/src/ch4/Point.java)
+      - [UsingPoint class](Ch4_Answers/src/ch4/UsingPoint.java)
