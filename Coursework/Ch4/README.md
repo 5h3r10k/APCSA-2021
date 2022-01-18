@@ -110,7 +110,7 @@
     - Answers
       - [Line Class](Ch4_Answers/src/ch4/Line.java)
       - [Testing](Ch4_Answers/src/ch4/UsingLine1.java)
-      - [Testing Image](Ch4_Answers/IntersectionDemo.jpg)
+      - [Testing Image](Ch4_Answers/IntersectionDemo.jpg) (courtesy Desmos)
 17. Line Class constructors - logical accuracy
     - This is to check if your ```Line``` class works as expected.
     - [Assignment](Ch4_Assignments/Line_Class_Constructors_Logic_Test.pdf)
