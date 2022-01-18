@@ -98,3 +98,28 @@
     - Answers
       - [Point class](Ch4_Answers/src/ch4/Point.java)
       - [UsingPoint class](Ch4_Answers/src/ch4/UsingPoint.java)
+15. Line Class
+    - Assignment files:
+      - [Line.java](Ch4_Assignments/Line.java)
+      - [UsingLine.java](Ch4_Assignments/UsingLine.java)
+    - Answers:
+      - [Line](Ch4_Answers/src/ch4/Line.java)
+      - [UsingLine](Ch4_Answers/src/ch4/UsingLine.java)
+16. Intersection Method - Line Class
+    - [Assignment](Ch4_Assignments/Intersection_Method.pdf)
+    - Answers
+      - [Line Class](Ch4_Answers/src/ch4/Line.java)
+      - [Testing](Ch4_Answers/src/ch4/UsingLine1.java)
+      - [Testing Image](Ch4_Answers/IntersectionDemo.jpg)
+17. Line Class constructors - logical accuracy
+    - This is to check if your ```Line``` class works as expected.
+    - [Assignment](Ch4_Assignments/Line_Class_Constructors_Logic_Test.pdf)
+    - [Code](Ch4_Answers/src/ch4/LineRunner.java)
+18. System of Linear Equations
+    - [Assignment](Ch4_Assignments/System_Of_Linear_Equations.pdf)
+    - [Answer](Ch4_Answers/src/ch4/SysOfEq.java)
+19. System of Linear Equations using Rational class
+    - This assignment asks for the ```Line``` class to be modified such that:
+      - The slope and intercepts are ```Rational``` instances
+      - The ```Point``` class will also need to be modified
+    - I was unable to complete this assignment; anyone who has a solution, feel free to fork and PR.
