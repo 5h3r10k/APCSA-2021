@@ -4,9 +4,18 @@ public class Testing {
     
     public static void main(String[] args) {
         
-        Box amzn = new Box(5);
+        String[] pts = {"A","B","C","D","E"};
 
-        System.out.println(amzn.toString());
+        for (int i = 0; i < pts.length; i++) {
+            
+            for(int j = i+1;j < pts.length;j++){
+
+                System.out.print(pts[i]);
+                System.out.println(pts[j]);
+
+            }
+
+        }
 
     }
 
