@@ -125,5 +125,6 @@
     - I was unable to complete this assignment; anyone who has a solution, feel free to fork and PR.
 20. Rectangle class
     - In this assignment, you must design and implement a ```RectangleStudent``` class.
-    - [Starter file](Ch4_Assignments/RectangleStudent.java)
-    - [Assignment Details](Ch4_Assignments/Rectangle_Class_HW_2018.pdf)
+      - [Starter file](Ch4_Assignments/RectangleStudent.java)
+      - [Assignment Details](Ch4_Assignments/Rectangle_Class_HW_2018.pdf)
+    - [Answer](Ch4_Answers/src/ch4/RectangleStudent.java)
