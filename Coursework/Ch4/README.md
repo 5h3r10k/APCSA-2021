@@ -123,3 +123,7 @@
       - The slope and intercepts are ```Rational``` instances
       - The ```Point``` class will also need to be modified
     - I was unable to complete this assignment; anyone who has a solution, feel free to fork and PR.
+20. Rectangle class
+    - In this assignment, you must design and implement a ```RectangleStudent``` class.
+    - [Starter file](Ch4_Assignments/RectangleStudent.java)
+    - [Assignment Details](Ch4_Assignments/Rectangle_Class_HW_2018.pdf)
