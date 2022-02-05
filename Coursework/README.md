@@ -15,3 +15,7 @@
 ### [Chapter 4 - Writing Classes](./Ch4)
 - [Chapter 4 Topics](./Ch4/README.md#topics)
 - [Chapter 4 Assignments/Practice](./Ch4/README.md#assignments--practice)
+
+### [Chapter 6 - Arrays](./Ch6)
+- [Chapter 6 Topics](./Ch6/README.md#topics)
+- [Chapter 6 Assignments/Practice](./Ch6/README.md#assignments--practice)
