@@ -49,10 +49,13 @@
 
 1. Arrays HW #1: Array basics
    - [Assignment](Ch6_Assignments/ArraysHW1.pdf)
-   - [Answer]
+   - [Answer](Ch6_Answers/src/ch6/ArrayHW1.java)
 2. Arrays HW #2: Array comparisons
    - [Assignment](Ch6_Assignments/ArraysHW2.pdf)
-   - [Answer]
-4. Arrays HW #3: Frequency chart
+   - [Answer](Ch6_Answers/src/ch6/ArrayHW2.java)
+3. Arrays HW #3: Frequency chart
    - [Assignment](Ch6_Assignments/ArraysHW3.pdf)
-   - [Answer]
+   - [Answer](Ch6_Answers/src/ch6/ArrayHW3.java)
+4. Selection Sort
+   - [Assignment](Ch6_Assignments/SelectionSort.jpg)
+   - [Answer](Ch6_Answers/src/ch6/SelectionSort.java)
