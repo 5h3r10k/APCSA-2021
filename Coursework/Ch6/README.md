@@ -1,8 +1,8 @@
 # Chapter 4 - Writing Classes
 
-[Chapter 6 from the textbook]()
+[Chapter 6 from the textbook](JSS_ch6.pdf)
 
-[Chapter 6 Powerpoint]()
+[Chapter 6 Powerpoint](JSS_ch6_ppt.pdf)
 
 
 
