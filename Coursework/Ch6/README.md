@@ -1,4 +1,4 @@
-# Chapter 4 - Writing Classes
+# Chapter 6 - Arrays
 
 [Chapter 6 from the textbook](JSS_ch6.pdf)
 
