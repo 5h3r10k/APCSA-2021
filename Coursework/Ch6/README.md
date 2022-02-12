@@ -59,3 +59,7 @@
 4. Selection Sort
    - [Assignment](Ch6_Assignments/SelectionSort.jpg)
    - [Answer](Ch6_Answers/src/ch6/SelectionSort.java)
+5. Insertion / Selection Sort Menu
+   - [Assignment](Ch6_Assignments/InsertionSelectionSort.pdf)
+   - [Insertion Sort](Ch6_Answers/src/ch6/InsertionSort.java)
+   - [Answer](Ch6_Answers/src/ch6/SortMenu.java)
