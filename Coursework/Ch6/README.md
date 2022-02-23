@@ -4,6 +4,8 @@
 
 [Chapter 6 Powerpoint](JSS_ch6_ppt.pdf)
 
+[2D Array Notes](2d_Array_notes.pdf)
+
 
 
 ### Topics
@@ -63,3 +65,15 @@
    - [Assignment](Ch6_Assignments/InsertionSelectionSort.pdf)
    - [Insertion Sort](Ch6_Answers/src/ch6/InsertionSort.java)
    - [Answer](Ch6_Answers/src/ch6/SortMenu.java)
+6. Cards Array
+   - [Assignment & Starter Classes](Ch6_Assignments/Deck_and_Card_Class.pdf)
+   - Answers
+     - [Card Class](Ch6_Answers/src/ch6/Card.java)
+     - [Deck Class](Ch6_Answers/src/ch6/Deck.java)
+     - [Runner file](Ch6_Answers/src/ch6/UsingDeck.java)
+7. CD-CDCollection-Tunes
+   - [Assignment](Ch6_Assignments/CD-CDcollection-tunes.jpg)
+   - Answer
+8.  Bubble Sort
+    - [Assignment](Ch6_Assignments/BubbleSort.jpg)
+    - [Answer](Ch6_Answers/src/ch6/BubbleSort.java)
