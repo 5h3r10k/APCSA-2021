@@ -74,6 +74,9 @@
 7. CD-CDCollection-Tunes
    - [Assignment](Ch6_Assignments/CD-CDcollection-tunes.jpg)
    - Answer
-8.  Bubble Sort
-    - [Assignment](Ch6_Assignments/BubbleSort.jpg)
-    - [Answer](Ch6_Answers/src/ch6/BubbleSort.java)
+8. Bubble Sort
+   - [Assignment](Ch6_Assignments/BubbleSort.jpg)
+   - [Answer](Ch6_Answers/src/ch6/BubbleSort.java)
+9. 2D Arrays worksheet
+   - [Assignment](Ch6_Assignments/2D_Array_HW_Assignment_Computer.txt)
+   - [Answer](Ch6_Answers/src/ch6/Arrays2DAssignment.java)
