@@ -80,3 +80,20 @@
 9. 2D Arrays worksheet
    - [Assignment](Ch6_Assignments/2D_Array_HW_Assignment_Computer.txt)
    - [Answer](Ch6_Answers/src/ch6/Arrays2DAssignment.java)
+
+<br>
+
+### FRQ Assignments
+
+- [Reservation](Ch6_Assignments/ch6_frq/Reservation.pdf)
+  - [Appointment](Ch6_Answers/src/ch6/frq/Appointment.java)
+  - [DailySchedule](Ch6_Answers/src/ch6/frq/DailySchedule.java)
+- [Robot PR2004](Ch6_Assignments/ch6_frq/Robot_PR2004.pdf)
+- [SeatingChart](Ch6_Assignments/ch6_frq/SeatingChart.pdf)
+- [StringPart, StringCoder](Ch6_Assignments/ch6_frq/StringPart_StringCoder.pdf)
+- [StudentAnswerSheet](Ch6_Assignments/ch6_frq/StudentAnswerSheet.pdf)
+- [TimeInterval](Ch6_Assignments/ch6_frq/TimeInterval.pdf)
+  - [TimeInterval](Ch6_Answers/src/ch6/frq/TimeInterval.java)
+- [TokenPass](Ch6_Assignments/ch6_frq/Token_Pass.pdf)
+  - [TokenPass](Ch6_Answers/src/ch6/frq/TokenPass.java)
+- [WordList](Ch6_Assignments/ch6_frq/WordList.pdf)
