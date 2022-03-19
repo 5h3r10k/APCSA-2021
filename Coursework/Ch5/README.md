@@ -1,8 +1,8 @@
 # Chapter 5 - Object Oriented Design
 
-[Chapter 5 from the textbook]()
+[Chapter 5 from the textbook](JSS_ch5.pdf)
 
-[Chapter 5 Powerpoint]()
+[Object Oriented Design Powerpoint](JSS_ch7_ppt.pdf)
 
 
 ### Topics
