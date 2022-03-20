@@ -16,6 +16,10 @@
 - [Chapter 4 Topics](./Ch4/README.md#topics)
 - [Chapter 4 Assignments/Practice](./Ch4/README.md#assignments--practice)
 
+### [Chapter 5 - Object-Oriented Design](./Ch5)
+- [Chapter 5 Topics](./Ch5/README.md#topics)
+- [Chapter 5 Assignments/Practice](./Ch5/README.md#assignments--practice)
+
 ### [Chapter 6 - Arrays](./Ch6)
 - [Chapter 6 Topics](./Ch6/README.md#topics)
 - [Chapter 6 Assignments/Practice](./Ch6/README.md#assignments--practice)
