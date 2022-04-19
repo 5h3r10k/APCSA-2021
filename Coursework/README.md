@@ -23,3 +23,7 @@
 ### [Chapter 6 - Arrays](./Ch6)
 - [Chapter 6 Topics](./Ch6/README.md#topics)
 - [Chapter 6 Assignments/Practice](./Ch6/README.md#assignments--practice)
+
+### [Chapter 7 - Inheritance](./Ch7)
+- [Chapter 6 Topics](./Ch7/README.md#notes)
+- [Chapter 6 Assignments/Practice](./Ch7/README.md#assignments--practice)
