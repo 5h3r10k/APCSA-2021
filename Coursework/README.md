@@ -25,5 +25,5 @@
 - [Chapter 6 Assignments/Practice](./Ch6/README.md#assignments--practice)
 
 ### [Chapter 7 - Inheritance](./Ch7)
-- [Chapter 6 Topics](./Ch7/README.md#notes)
-- [Chapter 6 Assignments/Practice](./Ch7/README.md#assignments--practice)
+- [Chapter 7 Notes](./Ch7/README.md#notes)
+- [Chapter 7 Assignments/Practice](./Ch7/README.md#assignments--practice)
