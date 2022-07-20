@@ -17,7 +17,7 @@
 
 ### Assignments & Practice
 
-1. [Inheritance Mini Projects]
+1. [Inheritance Mini Projects](Ch7_Assignments/Inheritance_assignment_1.pdf)
    - Answers
      - [Coin](Ch7_Answers/src/ch7/Coin.java)
      - [MonetaryCoin](Ch7_Answers/bin/ch7/MonetaryCoin.java)
